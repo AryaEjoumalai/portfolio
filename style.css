@@ -111,6 +111,24 @@ ul li {
     grid-template-columns: auto auto;
 }
 
+.experience-container {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: start;
+  background-color: pink;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+.experience-left {
+  text-align: left;
+}
+
+.experience-right {
+  text-align: right;
+}
+
+
 .project-item {
     margin: 10px;
     background-color: pink;
