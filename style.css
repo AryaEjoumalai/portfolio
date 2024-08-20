@@ -230,4 +230,8 @@ a {
 
     }
 
+    .experience-right {
+    padding-right: 50px; /* Adjust this value as needed */
+    }
+
 }
